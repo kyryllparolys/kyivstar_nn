@@ -1,0 +1,1 @@
+At this point I don't know nothing about Neural Networks and Data Science in general. Most of the code is copy-pasted. The hardest task for me was to pass the right data to the neural network. I achieved accuracy of 71%.
